@@ -11,4 +11,5 @@ $cd Scripts_Python
 $ls
 
 $python3 arquivo.py que deseja
+
 Ex: python3 tools.py
