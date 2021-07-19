@@ -5,11 +5,11 @@ $apt install git python -y
 
 $git clone https://github.com/KiraSec/Scripts_Python
 
-# Execução dos scripts
+# Execução
 $cd Scripts_Python
 
 $ls
 
-$python3 arquivo.py que deseja
+$chmod +x tools.py
 
-Ex: python3 tools.py
+$python3 tools.py
