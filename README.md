@@ -5,7 +5,7 @@ $apt install git python -y
 
 $git clone https://github.com/KiraSec/Scripts_Python
 
-# Execução
+# Execution
 $cd Scripts_Python
 
 $ls
